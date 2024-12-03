@@ -16,3 +16,4 @@
 1. **Klonování projektu**:
    ```bash
    git clone https://github.com/nobodysleezy/CryptoTracker.git
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-03 at 22 13 36](https://github.com/user-attachments/assets/570a70c0-5f1d-411a-956b-fa11cfe9b2d0)

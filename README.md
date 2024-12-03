@@ -15,4 +15,4 @@
 ## 🚀 Instalace
 1. **Klonování projektu**:
    ```bash
-   git clone https://github.com/tvoje-uzivatelske-jmeno/CryptoTracker.git
+   git clone https://github.com/nobodysleezy/CryptoTracker.git

@@ -36,7 +36,7 @@ struct ContentView: View {
             .onAppear {
                 fetchCryptos() // Načítání kryptoměn
             }
-            .navigationTitle("Cryptocurrencies")
+            .navigationTitle("CryptoTracker")
         }
     }
 

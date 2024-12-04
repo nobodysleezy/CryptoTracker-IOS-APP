@@ -22,7 +22,7 @@
 
 🏠 Homepage
 Popis: Hlavní stránka aplikace, která zobrazuje seznam kryptoměn.
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-03 at 22 13 10](https://github.com/user-attachments/assets/c4e14a79-043a-474d-9283-0a30874fe029)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-04 at 07 31 06](https://github.com/user-attachments/assets/9a6b749b-8eb6-4ea8-887a-b62bfb2b30f0)
 
 
 ⚙️ Settings
